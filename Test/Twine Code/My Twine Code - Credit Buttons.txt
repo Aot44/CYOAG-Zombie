@@ -1,0 +1,8 @@
+Credits 1 Page:
+<!Tab Button 1><button type="button" disabled style="background:url(Test/depositphotos_5085439-stock-photo-vintage-aged-background-old-paper.jpg); float:left; margin:-370px 0px 0px 0px;height:20px;width:100px;"><h1 style="text-shadow: 0px 0px 4px #CC0099;color:Black;font-size:15px;margin:0px 0px 0px 0px;">About Us</h1></button><!Tab Buttons, margin: Top, Right, Bottom, Left>
+<!Tab Button 2><button type="button" enabled style="background:url(Test/depositphotos_5085439-stock-photo-vintage-aged-background-old-paper.jpg); float:left; margin:-406px 0px 0px 100px;height:20px;width:100px;"><h1 style="text-shadow: 0px 0px 4px #EE0000;color:Black;font-size:15px;margin:0px 0px 0px 0px;">(text-colour:Black)[[Resources->Credits 2]]</h1></button><!Tab Buttons, margin: Top, Right, Bottom, Left>
+
+
+Credits 2 Page:
+<!Tab Button 1><button type="button" ensabled style="background:url(Test/depositphotos_5085439-stock-photo-vintage-aged-background-old-paper.jpg); float:left; margin:-370px 0px 0px 0px;height:20px;width:100px;"><h1 style="text-shadow: 0px 0px 4px #EE0000;color:Black;font-size:15px;margin:0px 0px 0px 0px;">(text-colour:Black)[[About Us->Credits 1]]</h1></button><!Tab Buttons, margin: Top, Right, Bottom, Left>
+<!Tab Button 2><button type="button" disabled style="background:url(Test/depositphotos_5085439-stock-photo-vintage-aged-background-old-paper.jpg); float:left; margin:-406px 0px 0px 100px;height:20px;width:100px;"><h1 style="text-shadow: 0px 0px 4px #CC0099;color:Black;font-size:15px;margin:0px 0px 0px 0px;">Resources</h1></button><!Tab Buttons, margin: Top, Right, Bottom, Left>
